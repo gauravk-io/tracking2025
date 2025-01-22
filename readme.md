@@ -3,7 +3,7 @@
 #### 22 Jan 2025
 - P1 CF : https://codeforces.com/problemset/problem/96/A
   - Solution : https://codeforces.com/problemset/submission/96/302281046
-- JavaScript : Lec [11-20]
+- JavaScript : Lec [16-20]
 
 #### 21 Jan 2025
 - P1 CF : https://codeforces.com/problemset/problem/318/A
@@ -12,19 +12,19 @@
   - Solution : https://codeforces.com/problemset/submission/96/302278601
 - P3 CF : https://codeforces.com/problemset/problem/1537/A
   - Solution : https://codeforces.com/problemset/submission/1537/302278691
-- JavaScript : Lec [06-10]
+- JavaScript : Lec [10-15]
 
 #### 20 Jan 2025
 - P1 CF : https://codeforces.com/problemset/problem/1551/A
   - Solution : https://codeforces.com/problemset/submission/1551/301981417
 - P2 CF : https://codeforces.com/problemset/problem/1542/A
   - Solution : https://codeforces.com/problemset/submission/1542/302009218
-- JavaScript : Lec [01-05]
+- JavaScript : Lec [06-10]
 
 #### 19 Jan 2025
 - Contest on CodeForces Round 998 (Div. 3)
   - Submission1 : https://codeforces.com/problemset/submission/2060/301785627
-- Started JavaScript form Code and Chai {Hitesh Choudhary} : https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=pO6L0msiMRT5kN0q
+- Started JavaScript form Code and Chai {Hitesh Choudhary} : Lec [01-05] : https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=pO6L0msiMRT5kN0q
 
 #### 18 Jan 2025
 - Nothing
