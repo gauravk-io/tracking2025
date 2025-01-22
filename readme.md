@@ -4,6 +4,10 @@
 - P1 CF : https://codeforces.com/problemset/problem/96/A
   - Solution : https://codeforces.com/problemset/submission/96/302281046
 - JavaScript : Lec [16-20]
+- - Give contest on codechef solved 2 pblm + 1 pblm after contest
+  - Submission 1 : https://www.codechef.com/viewsolution/1124850409
+  - Submission 2 : https://www.codechef.com/viewsolution/1124858247
+  - Submission 3 : https://www.codechef.com/viewsolution/1125101031
 
 #### 21 Jan 2025
 - P1 CF : https://codeforces.com/problemset/problem/318/A
