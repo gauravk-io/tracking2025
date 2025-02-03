@@ -1,5 +1,13 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 03 Feb 2025
+- Created a weather app - https://gauravk-io.github.io/weatherApp/
+
+#### 23 Jan - 02 Feb 2025
+- On Vacation
+- Completed javascript till lecture 34 in between vacation
+- Started compiler design
+
 #### 22 Jan 2025
 - P1 CF : https://codeforces.com/problemset/problem/96/A
   - Solution : https://codeforces.com/problemset/submission/96/302281046
