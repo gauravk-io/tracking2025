@@ -1,7 +1,7 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
 #### 04 Feb 2025
-- Created a Quote Generator WebApp
+- Created a Quote Generator WebApp - https://gauravk-io.github.io/quoteGenerator/
 
 #### 03 Feb 2025
 - Created a Weather WebApp - https://gauravk-io.github.io/weatherApp/
