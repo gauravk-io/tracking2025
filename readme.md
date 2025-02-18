@@ -1,5 +1,11 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 05 Feb - 18 Feb 2025
+- On Vacation
+- did almost no coding but gave 2 contests on codeforces
+- Learned a no code tool { Wordpress }
+- prepared for college exam which is starting from 20 feb
+
 #### 04 Feb 2025
 - Created a Quote Generator WebApp - https://gauravk-io.github.io/quoteGenerator/
 
