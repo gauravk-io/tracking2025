@@ -1,5 +1,8 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 19 Feb 2025
+- Completed module 1,2 and 3 of compiler design
+
 #### 05 Feb - 18 Feb 2025
 - On Vacation
 - did almost no coding but gave 2 contests on codeforces
