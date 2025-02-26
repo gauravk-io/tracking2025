@@ -1,5 +1,8 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 26 Feb 2025
+- documenting javascript - https://github.com/gauravk-io/jsChaiCode
+
 #### 20 Feb - 25 Feb 2025
 - College Exam
 
