@@ -1,5 +1,8 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 20 Feb - 25 Feb 2025
+- College Exam
+
 #### 19 Feb 2025
 - Completed module 1,2 and 3 of compiler design
 
