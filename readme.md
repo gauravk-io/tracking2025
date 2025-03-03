@@ -1,5 +1,8 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 03 Mar 2025
+- Completed lab assignment of DBMS, OS and PPL
+
 #### 26 Feb - 02 Mar 2025
 - Detailed note of JavaScript - https://github.com/gauravk-io/jsChaiCode
 - Give contest on codechef solved 2 pblm on 26th of march
