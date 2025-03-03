@@ -1,7 +1,10 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
-#### 26 Feb 2025
-- documenting javascript - https://github.com/gauravk-io/jsChaiCode
+#### 26 Feb - 02 Mar 2025
+- Detailed note of JavaScript - https://github.com/gauravk-io/jsChaiCode
+- Give contest on codechef solved 2 pblm on 26th of march
+  - Submission 1 : https://www.codechef.com/viewsolution/1136508929
+  - Submission 2 : https://www.codechef.com/viewsolution/1136544684
 
 #### 20 Feb - 25 Feb 2025
 - College Exam
