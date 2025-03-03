@@ -17,7 +17,7 @@
 
 #### 05 Feb - 18 Feb 2025
 - On Vacation
-- did almost no coding but gave 2 contests on codeforces
+- did almost no coding but gave 2 contests on codeforces {Submission : https://codeforces.com/contest/2065/submission/305146870}
 - Learned a no code tool { Wordpress }
 - prepared for college exam which is starting from 20 feb
 
