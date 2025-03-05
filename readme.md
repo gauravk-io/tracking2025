@@ -1,11 +1,20 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 05 Mar 2025
+- Give contest on codechef solved 3 pblm - https://www.codechef.com/START176D
+  - Submission 1 : https://www.codechef.com/viewsolution/1138810513
+  - Submission 2 : https://www.codechef.com/viewsolution/1138816681
+  - Submission 3 : https://www.codechef.com/viewsolution/1138847369
+
+#### 04 Mar 2025
+- holiday
+
 #### 03 Mar 2025
 - Completed lab assignment of DBMS, OS and PPL
 
 #### 26 Feb - 02 Mar 2025
 - Detailed note of JavaScript - https://github.com/gauravk-io/jsChaiCode
-- Give contest on codechef solved 2 pblm on 26th of march
+- Give contest on codechef solved 2 pblm on 26th of march - https://www.codechef.com/START175D
   - Submission 1 : https://www.codechef.com/viewsolution/1136508929
   - Submission 2 : https://www.codechef.com/viewsolution/1136544684
 
@@ -13,6 +22,8 @@
 - College Exam
 
 #### 19 Feb 2025
+- Give contest on codechef solved 1 pblm - https://www.codechef.com/START174D
+  - Submission 1 : https://www.codechef.com/viewsolution/1134351198
 - Completed module 1,2 and 3 of compiler design
 
 #### 05 Feb - 18 Feb 2025
@@ -59,7 +70,10 @@
 
 #### 19 Jan 2025
 - Contest on CodeForces Round 998 (Div. 3)
-  - Submission1 : https://codeforces.com/problemset/submission/2060/301785627
+  - Submission 1 : https://codeforces.com/problemset/submission/2060/301785627
+- Give contest on codechef solved 2 pblm  - https://www.codechef.com/START170D
+  - Submission 1 : https://www.codechef.com/viewsolution/1124850409
+  - Submission 2 : https://www.codechef.com/viewsolution/1124859465
 - Started JavaScript form Code and Chai {Hitesh Choudhary} : Lec [01-05] : https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=pO6L0msiMRT5kN0q
 
 #### 18 Jan 2025
@@ -108,7 +122,7 @@
   - Solution : https://codeforces.com/problemset/submission/1829/301266245
 
 #### 15 Jan 2025
-- Give contest on codechef solved 2 pblm 
+- Give contest on codechef solved 2 pblm  - https://www.codechef.com/START169D
   - Submission 1 : https://www.codechef.com/viewsolution/1123191414
   - Submission 2 : https://www.codechef.com/viewsolution/1123202496
   - Submission 2 : https://www.codechef.com/viewsolution/1123208416
