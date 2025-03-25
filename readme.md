@@ -1,5 +1,13 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 06 Mar - 10 Mar 2025
+- Sessional Exams
+
+#### 11 Mar - 20 Mar 2025
+- Travelling
+- Holi
+- Gave OA and prepare for Interview
+
 #### 05 Mar 2025
 - Give contest on codechef solved 3 pblm - https://www.codechef.com/START176D
   - Submission 1 : https://www.codechef.com/viewsolution/1138810513
