@@ -1,9 +1,12 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 21 Mar - 24 Mar 2025
+- Did nothing
+
 #### 11 Mar - 20 Mar 2025
 - Travelling
 - Holi
-- Gave OA and prepare for Interview
+- Gave OA and prepared for Interview also Interview done hoping for something good 
 
 #### 06 Mar - 10 Mar 2025
 - Sessional Exams
