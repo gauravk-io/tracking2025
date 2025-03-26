@@ -1,5 +1,11 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 26 Mar 2025
+- Give contest on codechef solved 2 pblm - https://www.codechef.com/START179D
+  - Submission 1 : https://www.codechef.com/viewsolution/1146500617
+  - Submission 2 : https://www.codechef.com/viewsolution/1146556946
+- Continued DSA notes - https://github.com/gauravk-io/striverDsaSheet
+
 #### 25 Mar 2025
 - Started making digital notes of DSA form takeuforward - https://github.com/gauravk-io/striverDsaSheet
 
