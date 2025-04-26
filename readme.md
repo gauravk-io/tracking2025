@@ -1,5 +1,12 @@
 ## ✍️ Documenting what I am Learning/Doing in the year 2025
 
+#### 27 Mar - 26 Apr 2025
+- Give contest on codechef solved 3 pblm - https://www.codechef.com/START183D (Global rank 922)
+  - Submission 1 : https://www.codechef.com/viewsolution/1154848137
+  - Submission 2 : https://www.codechef.com/viewsolution/1154850250
+  - Submission 3 : https://www.codechef.com/viewsolution/1154860229
+- All month wasted in college exam (End today)
+
 #### 26 Mar 2025
 - Give contest on codechef solved 2 pblm - https://www.codechef.com/START179D
   - Submission 1 : https://www.codechef.com/viewsolution/1146500617
